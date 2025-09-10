@@ -11,11 +11,11 @@
 
   "nav": {
     "logo": "Profile.jpeg",
-    "title": "Morristin's DreamLand    ",
+    "title": "Morristin's DreamLand",
 
     "links": [
       {
-        "href": "/author/Morristin",
+        "href": "/authors/Morristin",
         "name": "About Me"
       }
     ],

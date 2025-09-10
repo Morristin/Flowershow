@@ -7,7 +7,7 @@ description: "该网站仍然在起步阶段。很多导航与功能都有所缺
 # 下列是所有已经发布的内容:
 
 <List 
-  dir="/articles"
+  dir="/technology"
   fields={["image", "title", "description", "date"]}
   pageSize={6}
 />
