@@ -1,64 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap');
 
 .bg-background {
-    background-color: 252, 251, 250 !important;
+    background-color: rgba(252, 251, 250) !important;
 }
 
-article :not(a) {
-    font-family: 'LXGW WenKai TC', sans-serif !important;
+.font {
+    font-family: 'LXGW WenKai TC', serif !important;
     font-weight: 400 !important;
     font-style: normal !important;
     color: #475669 !important;
 }
 
+nav {
+    font-family: 'LXGW WenKai TC', serif !important;
+    font-size: 1rem !important;
+}
+
 h1 {
-    color: 205, 106, 94 !important;
-    font-size: 1.45em !important;
+    color: rgba(205, 106, 94) !important;
+    font-size: 1.5em !important;
 }
 
 h2 {
-    color: 230, 161, 73 !important;
-    font-size: 1.3em !important;
+    color: rgba(230, 161, 73) !important;
+    font-size: 1.35em !important;
 }
 
 h3 {
-    color: 127, 111, 134 !important;
-    font-size: 1.15em !important;
+    color: rgba(127, 111, 134) !important;
+    font-size: 1.20em !important;
 }
 
 h4 {
-    color: 86, 139, 187 !important;
-    font-size: 1.05em !important;
+    color: rgba(86, 139, 187) !important;
+    font-size: 1.10em !important;
 }
 
 h5 {
-    color: 204, 135, 90 !important;
-    font-size: 1em !important;
+    color: rgba(204, 135, 90) !important;
+    font-size: 1.05em !important;
 }
 
 h6 {
     color: #475669 !important;
     font-size: 1em !important;
     font-variant: small-caps !important;
-}
-
-li {
-    color: 205, 106, 94 !important;
-}
-
-link {
-    color: 127, 111, 134 !important;
-}
-
-link :hover {
-    color: rgba(127, 111, 134, 0.6) !important;
-}
-
-link :visited {
-    color: 86, 139, 187 !important;
-}
-
-link :visited:hover {
-    color: rgba(86, 139, 187, 0.6) !important;
-    text-decoration: underline !important;
 }
