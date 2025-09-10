@@ -15,10 +15,6 @@
 
     "links": [
       {
-        "href": "/articles",
-        "name": "Blog"
-      },
-      {
         "href": "/author/Morristin",
         "name": "About Me"
       }
