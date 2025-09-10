@@ -4,6 +4,11 @@
     background-color: rgb(252, 251, 250) !important;
 }
 
+.site-navbar-social-links-container {
+    gap: 20px !important;
+    column-gap: 20px !important;
+}
+
 .page-header-description {
     font-family: 'LXGW WenKai TC', serif !important;
     font-size: 1.15rem !important;
@@ -13,7 +18,13 @@
 .page-hero-description {
     font-family: 'LXGW WenKai TC', serif !important;
     font-size: 1.15rem !important;
-    font-weight: 500 !important;
+    font-weight: 300 !important;
+}
+
+.list-component-item-eyebrow {
+    font-family: 'LXGW WenKai TC', serif !important;
+    font-size: 1.15rem !important;
+    font-weight: 300 !important;
 }
 
 .list-component-item-summary {
