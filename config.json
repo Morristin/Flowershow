@@ -8,7 +8,7 @@
 
   "title": "Morristin's DreamLand",
   "description": "Programming, Writing, and Live.",
-  "favicon": "🥳",
+  "favicon": "Emoji_Party.png",
 
   "nav": {
     "logo": "Profile.jpeg",
@@ -28,7 +28,7 @@
     "social": [
       {
         "label": "github",
-        "name": "GitHub Profile",
+        "name": "My GitHub Profile",
         "href": "https://github.com/Morristin"
       },
       {
