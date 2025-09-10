@@ -16,6 +16,12 @@
     font-weight: 500 !important;
 }
 
+.list-component-item-summary {
+    font-family: 'LXGW WenKai TC', serif !important;
+    font-size: 1.15rem !important;
+    font-weight: 300 !important;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'LXGW WenKai TC', serif !important;
     font-style: normal !important;

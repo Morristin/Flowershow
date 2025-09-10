@@ -7,7 +7,7 @@
   "showSidebar": true,
 
   "title": "Morristin's DreamLand",
-  "description": "A blog about programming, technology, and life.",
+  "description": "Programming, Writing, and Live.",
   "favicon": "🥳",
 
   "nav": {
@@ -20,7 +20,7 @@
         "name": "Blog"
       },
       {
-        "href": "/people/Morristin",
+        "href": "/author/Morristin",
         "name": "About Me"
       }
     ],
