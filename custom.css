@@ -4,11 +4,10 @@
     background-color: rgba(252, 251, 250) !important;
 }
 
-.font {
+h1, h2, h3, h4, h5, h6, p {
     font-family: 'LXGW WenKai TC', serif !important;
-    font-weight: 400 !important;
+    font-weight: 700 !important;
     font-style: normal !important;
-    color: #475669 !important;
 }
 
 nav {
@@ -45,4 +44,33 @@ h6 {
     color: #475669 !important;
     font-size: 1em !important;
     font-variant: small-caps !important;
+}
+
+.callout[data-callout="note"] {
+  --callout-icon: lucide-sticker;
+}
+
+.callout[data-callout="question"] {
+  --callout-color: rgba(205, 106, 94);
+  --callout-icon: lucide-badge-help;
+}
+
+.callout[data-callout="info"] {
+  --callout-icon: lucide-badge-info;
+}
+
+.callout[data-callout="todo"] {
+  --callout-icon: circle-check-big;
+}
+
+.callout[data-callout="fail"] {
+  --callout-icon: lucide-ban;
+}
+
+.callout[data-callout="example"] {
+  --callout-icon: lucide-lightbulb;
+}
+
+.callout[data-callout="done"], .callout[data-callout="success"] {
+  --callout-icon: lucide-check-check;
 }
