@@ -2,7 +2,7 @@
 showHero: true
 title: 来自九月的回忆 - Obsidian、Shortcut 与 Numbers 折腾笔记
 description: 整理一下我九月份所折腾的所有大项目。
-image: /assets/Pic-for-来自九月的回忆-Wed-0709.jpg
+image: /assets/Pic-for-SeptemberMemory-Wed-0709.jpg
 date: 2025-09-10
 authors: ["Morristin"]
 ---
@@ -28,7 +28,7 @@ authors: ["Morristin"]
 
 Obsidian 配置相比同时期爆发的众多双链笔记软件中不算困难。相对通用的技术文档、新手友好的图形化配置界面与繁荣的插件社区非常适合没有代码基础的用户。这也决定了社区中关于主题、配色方案之流的讨论度并不比用户群体更加广泛的纯商业笔记软件低。我很喜欢在市场中一个一个主题体验过去。有一种逛商场服装店的感觉。
 
-如果你有兴趣，以下是我比较推荐的主题。（你也可以：[[/articles/来自九月的回忆#Homepage - 将冷漠的文本编辑器转化为友善的笔记助手|直接跳到下一部分]]）它们集中的特点很体现我的审美倾向：彩虹般缤纷的颜色 / 高性能光影 / 对于每个细节的雕琢。
+如果你有兴趣，以下是我比较推荐的主题。（你也可以：[[/articles/SeptemberMemory#Homepage - 将冷漠的文本编辑器转化为友善的笔记助手|直接跳到下一部分]]）它们集中的特点很体现我的审美倾向：彩虹般缤纷的颜色 / 高性能光影 / 对于每个细节的雕琢。
 
 ### Theme - 我仍然保存在主题切换器中的主题
 
@@ -76,7 +76,7 @@ Obsidian 配置相比同时期爆发的众多双链笔记软件中不算困难�
 
 Homepage 插件允许你将指定文档作为应用起始时打开的默认文档。通过对你所指定的文档和 Homepage 插件的配置，你可以达到类似于浏览器的使用逻辑。
 
-![[Pic-for-来自九月的回忆-Tue-2009.png|我的 Homepage 最终版本]] 
+![[Pic-for-SeptemberMemory-Tue-2009.png|我的 Homepage 最终版本]] 
 
 这里面并非所有样式都来自于 Markdown 原生样式。下面是一些我用以优化  Homepage 的表现与出现逻辑的插件：
 
@@ -92,9 +92,9 @@ Homepage 插件允许你将指定文档作为应用起始时打开的默认文�
 
 市面上专为稍后再读设计的软件琳琅满目。但是作为能聚合互联网几乎所有个人信息的入口，我并不能够放心地使用大部分稍后再读服务。其中尤为让我失望的是如雷贯耳的 Cubox —— 充满 AI 浪潮下躁动的算法推荐，遍布过度商业化的集成与导流，却丧失最基本的安静和舒适阅读体验的稍后读应用。
 
-因此，我选择了使用 Obsidian 插件 ReadItLater 结合 Shortcut 来构建我的稍后再读体系。如果你对稍后再读没有兴趣，可以前往[[/articles/来自九月的回忆#Numbers - 记账的终极解决方案之一。|下一主题]]。
+因此，我选择了使用 Obsidian 插件 ReadItLater 结合 Shortcut 来构建我的稍后再读体系。如果你对稍后再读没有兴趣，可以前往[[/articles/SeptemberMemory#Numbers - 记账的终极解决方案之一。|下一主题]]。
 
-![[Pic-for-来自九月的回忆-Wed-0809.png|使用你最喜欢的主题样式阅读网页]]
+![[Pic-for-SeptemberMemory-Wed-0809.png|使用你最喜欢的主题样式阅读网页]]
 
 ### 在这之前，先聊一聊同步
 
@@ -140,13 +140,13 @@ ReadItLater 只有唯一一种添加内容的方式：通过读取剪贴板，�
 
 > [!tldr]- 如果你对 Numbers 的记账方案不感兴趣……
 > 
-> 你可以点击此处转到[[/articles/来自九月的回忆#结语|下一个话题]]。
+> 你可以点击此处转到[[/articles/SeptemberMemory#结语|下一个话题]]。
 > 
-> 或者，你仍然想要听听我体验很多软件后对记账的[[/articles/来自九月的回忆#为什么不使用其他记账软件 ？|一些感悟]]？
+> 或者，你仍然想要听听我体验很多软件后对记账的[[/articles/SeptemberMemory#为什么不使用其他记账软件 ？|一些感悟]]？
 
 几乎所有的表格制作软件都会提供个人财务管理的模板。Numbers 相对 Excel 的优势在于**它和 Shortcut 的集成给予了自行开发快速记账方案的可能性**。并且，我个人认为*Numbers 的美观程度和使用逻辑是完全超越 Excel 的*。
 
-![[Pic-for-来自九月的回忆-Wed-0859.jpeg|我的 Numbers 记账模板]]
+![[Pic-for-SeptemberMemory-Wed-0859.jpeg|我的 Numbers 记账模板]]
 
 ### Numbers 的核心逻辑、公式与图表
 
