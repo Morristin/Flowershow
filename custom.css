@@ -10,6 +10,12 @@
     font-weight: 500 !important;
 }
 
+.page-hero-description {
+    font-family: 'LXGW WenKai TC', serif !important;
+    font-size: 1.15rem !important;
+    font-weight: 500 !important;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'LXGW WenKai TC', serif !important;
     font-style: normal !important;
@@ -56,11 +62,4 @@ h6 {
     font-size: 1em !important;
     font-weight: 500 !important;
     font-variant: small-caps !important;
-}
-
-.markdown-body .callout.callout_warn {
-  --text: #6a737d; // theme text color default
-  --title: inherit; // theme title color (falls back to text color by default)
-  --background: #f8f8f9;
-  --border: #8b939c;
 }

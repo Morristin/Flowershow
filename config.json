@@ -1,4 +1,15 @@
 {
+  "contentExclude": [
+    "README.md"
+  ],
+
+  "showHero": true,
+  "showSidebar": true,
+
+  "title": "Morristin's DreamLand",
+  "description": "A blog about programming, technology, and life.",
+  "favicon": "🥳",
+
   "nav": {
     "logo": "Profile.jpeg",
     "title": "Morristin's DreamLand",
@@ -9,8 +20,8 @@
         "name": "Blog"
       },
       {
-        "href": "/about",
-        "name": "About"
+        "href": "/people/Morristin",
+        "name": "About Me"
       }
     ],
 
@@ -31,7 +42,5 @@
         "href": "https://discord.com/users/1410993486496399500"
       }
     ]
-
-  },
-  "showSidebar": true
+  }
 }
