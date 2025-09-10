@@ -4,6 +4,12 @@
     background-color: rgb(252, 251, 250) !important;
 }
 
+.page-header-description {
+    font-family: 'LXGW WenKai TC', serif !important;
+    font-size: 1.15rem !important;
+    font-weight: 500 !important;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'LXGW WenKai TC', serif !important;
     font-style: normal !important;
