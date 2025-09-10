@@ -4,6 +4,22 @@
     background-color: rgb(252, 251, 250) !important;
 }
 
+html[theme='dark-mode'] {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+html[theme='dark-mode'] img {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #111416
+        --text-color: #ccc;
+        --link-color: #f96;
+    }
+}
+
 .site-navbar-inner {
     padding-left: 2rem !important;
     padding-right: 2rem !important;
@@ -41,6 +57,17 @@
     font-family: 'LXGW WenKai TC', serif !important;
     font-size: 1.15rem !important;
     font-weight: 300 !important;
+}
+
+a#built-with-button {
+    visibility: hidden !important;
+}
+
+div {
+    font-family: "Noto Serif SC", serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 500 !important;
+    font-style: normal !important;
 }
 
 p, li, summary {
