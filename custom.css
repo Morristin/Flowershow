@@ -1,17 +1,14 @@
+/* Import fonts from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&family=Noto+Serif+SC:wght@200..900&display=swap');
 
+
+/* Background color */
 .bg-background {
     background-color: rgb(252, 251, 250) !important;
 }
 
-html[theme='dark-mode'] {
-    filter: invert(1) hue-rotate(180deg);
-}
 
-html[theme='dark-mode'] img {
-    filter: invert(1) hue-rotate(180deg);
-}
-
+/* Site navbar styles */
 .site-navbar-inner {
     padding-left: 2rem !important;
     padding-right: 2rem !important;
@@ -23,8 +20,8 @@ html[theme='dark-mode'] img {
 }
 
 .site-navbar-link {
-    font-family: 'LXGW WenKai TC', serif !important;
-    font-size: 1rem !important;
+    font-family: "Noto Serif SC", serif !important;
+    font-size: 1.2rem !important;
     font-weight: 500 !important;
     letter-spacing: 0em !important;
 }
@@ -34,6 +31,8 @@ html[theme='dark-mode'] img {
     column-gap: 1.2rem !important;
 }
 
+
+/* Page header and hero styles */
 .page-header-description {
     font-family: 'LXGW WenKai TC', serif !important;
     font-size: 1.15rem !important;
@@ -46,6 +45,8 @@ html[theme='dark-mode'] img {
     font-weight: 300 !important;
 }
 
+
+/* Some list component styles used in sepecific pages */
 .list-component-item-eyebrow {
     font-family: 'LXGW WenKai TC', serif !important;
     font-size: 1.15rem !important;
@@ -58,18 +59,23 @@ html[theme='dark-mode'] img {
     font-weight: 300 !important;
 }
 
+
+/* Hide every elements related to FlowerShow */
 a#built-with-button {
     visibility: hidden !important;
 }
 
-div {
-    font-family: "Noto Serif SC", serif !important;
-    font-optical-sizing: auto !important;
-    font-weight: 500 !important;
-    font-style: normal !important;
+.site-footer-copyright-icon {
+    display: none !important;
 }
 
-p, li, summary {
+.site-footer-built-with {
+    display: none !important;
+}
+
+
+/* Genral fonts and color settings */
+p, li, summary, div {
     font-family: "Noto Serif SC", serif !important;
     font-optical-sizing: auto !important;
     font-weight: 500 !important;
