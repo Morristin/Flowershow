@@ -43,7 +43,7 @@
     font-weight: 300 !important;
 }
 
-p, li {
+p, li, summary {
     font-family: "Noto Serif SC", serif !important;
     font-optical-sizing: auto !important;
     font-weight: 500 !important;
