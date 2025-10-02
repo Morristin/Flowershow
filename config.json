@@ -1,41 +1,44 @@
 {
-  "contentExclude": [
-    "README.md"
-  ],
+	"contentExclude": ["README.md"],
 
-  "showHero": true,
-  "showSidebar": false,
+	"theme": {
+		"defaultMode": "system",
+		"showModeSwitch": true
+	},
 
-  "title": "Morristin's DreamLand",
-  "description": "Programming, Writing, and Live.",
+	"showHero": true,
+	"showSidebar": false,
 
-  "nav": {
-    "logo": "Profile.jpeg",
-    "title": "Morristin's DreamLand",
+	"title": "Morristin's DreamLand",
+	"description": "Programming, Writing, and Live.",
 
-    "links": [
-      {
-        "href": "/authors/Morristin",
-        "name": "About Me"
-      }
-    ],
+	"nav": {
+		"logo": "Profile.jpeg",
+		"title": "Morristin's DreamLand",
 
-    "social": [
-      {
-        "label": "github",
-        "name": "My GitHub Profile",
-        "href": "https://github.com/Morristin"
-      },
-      {
-        "label": "reddit",
-        "name": "Follow me on Reddit",
-        "href": "https://www.reddit.com/user/morristin/"
-      },
-      {
-        "label": "discord",
-        "name": "Chat with me on Discord",
-        "href": "https://discord.com/users/1410993486496399500"
-      }
-    ]
-  }
+		"links": [
+			{
+				"href": "/authors/Morristin",
+				"name": "About Me"
+			}
+		],
+
+		"social": [
+			{
+				"label": "github",
+				"name": "My GitHub Profile",
+				"href": "https://github.com/Morristin"
+			},
+			{
+				"label": "reddit",
+				"name": "Follow me on Reddit",
+				"href": "https://www.reddit.com/user/morristin/"
+			},
+			{
+				"label": "discord",
+				"name": "Chat with me on Discord",
+				"href": "https://discord.com/users/1410993486496399500"
+			}
+		]
+	}
 }

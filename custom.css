@@ -1,131 +1,128 @@
 /* Import fonts from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&family=Noto+Serif+SC:wght@200..900&display=swap');
-
-
-/* Background color */
-.bg-background {
-    background-color: rgb(252, 251, 250) !important;
-}
-
+@import url("https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&family=Noto+Serif+SC:wght@200..900&display=swap");
 
 /* Site navbar styles */
 .site-navbar-inner {
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
+	padding-left: 2rem !important;
+	padding-right: 2rem !important;
 }
 
 .site-navbar-links-container {
-    gap: 1.2rem !important;
-    column-gap: 1.2rem !important;
+	gap: 1.2rem !important;
+	column-gap: 1.2rem !important;
 }
 
 .site-navbar-link {
-    font-family: "Noto Serif SC", serif !important;
-    font-size: 1.1rem !important;
-    font-weight: 400 !important;
-    letter-spacing: 0em !important;
+	font-family: "Noto Serif SC", serif !important;
+	font-size: 1.1rem !important;
+	font-weight: 400 !important;
+	letter-spacing: 0em !important;
 }
 
 .site-navbar-social-links-container {
-    gap: 1.2rem !important;
-    column-gap: 1.2rem !important;
+	gap: 1.2rem !important;
+	column-gap: 1.2rem !important;
 }
-
 
 /* Page header and hero styles */
 .page-header-description {
-    font-family: 'LXGW WenKai TC', serif !important;
-    font-size: 1.15rem !important;
-    font-weight: 500 !important;
+	font-family: "LXGW WenKai TC", serif !important;
+	font-size: 1.15rem !important;
+	font-weight: 500 !important;
 }
 
 .page-hero-description {
-    font-family: 'LXGW WenKai TC', serif !important;
-    font-size: 1.15rem !important;
-    font-weight: 300 !important;
+	font-family: "LXGW WenKai TC", serif !important;
+	font-size: 1.15rem !important;
+	font-weight: 300 !important;
 }
-
 
 /* Some list component styles used in sepecific pages */
 .list-component-item-eyebrow {
-    font-family: 'LXGW WenKai TC', serif !important;
-    font-size: 1.15rem !important;
-    font-weight: 300 !important;
+	font-family: "LXGW WenKai TC", serif !important;
+	font-size: 1.15rem !important;
+	font-weight: 300 !important;
 }
 
 .list-component-item-summary {
-    font-family: 'LXGW WenKai TC', serif !important;
-    font-size: 1.15rem !important;
-    font-weight: 300 !important;
+	font-family: "LXGW WenKai TC", serif !important;
+	font-size: 1.15rem !important;
+	font-weight: 300 !important;
 }
-
 
 /* Hide every elements related to FlowerShow */
 a#built-with-button {
-    visibility: hidden !important;
+	visibility: hidden !important;
 }
 
 .site-footer-copyright-icon {
-    display: none !important;
+	display: none !important;
 }
 
 .site-footer-built-with {
-    display: none !important;
+	display: none !important;
 }
-
 
 /* Genral fonts and color settings */
-p, li, summary, div {
-    font-family: "Noto Serif SC", serif !important;
-    font-optical-sizing: auto !important;
-    font-weight: 500 !important;
-    font-style: normal !important;
+p,
+li,
+summary,
+div {
+	font-family: "Noto Serif SC", serif !important;
+	font-optical-sizing: auto !important;
+	font-weight: 500 !important;
+	font-style: normal !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'LXGW WenKai TC', serif !important;
-    font-style: normal !important;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "LXGW WenKai TC", serif !important;
+	font-style: normal !important;
 }
 
 nav {
-    font-family: 'LXGW WenKai TC', serif !important;
-    font-size: 1rem !important;
-    font-weight: 300 !important;
+	font-family: "LXGW WenKai TC", serif !important;
+	font-size: 1rem !important;
+	font-weight: 300 !important;
 }
 
 h1 {
-    color: rgb(205, 106, 94) !important;
-    font-size: 1.8em !important;
-    font-weight: 900 !important;
+	color: rgb(205, 106, 94) !important;
+	font-size: 1.8em !important;
+	font-weight: 900 !important;
 }
 
 h2 {
-    color: rgb(230, 161, 73) !important;
-    font-size: 1.5em !important;
-    font-weight: 700 !important;
+	color: rgb(230, 161, 73) !important;
+	font-size: 1.5em !important;
+	font-weight: 700 !important;
 }
 
 h3 {
-    color: rgb(127, 111, 134) !important;
-    font-size: 1.30em !important;
-    font-weight: 700 !important;
+	color: rgb(127, 111, 134) !important;
+	font-size: 1.3em !important;
+	font-weight: 700 !important;
 }
 
 h4 {
-    color: rgb(86, 139, 187) !important;
-    font-size: 1.15em !important;
-    font-weight: 500 !important;
+	color: rgb(86, 139, 187) !important;
+	font-size: 1.15em !important;
+	font-weight: 500 !important;
 }
 
 h5 {
-    color: rgb(204, 135, 90) !important;
-    font-size: 1.00em !important;
-    font-weight: 500 !important;
+	color: rgb(204, 135, 90) !important;
+	font-size: 1em !important;
+	font-weight: 500 !important;
 }
 
 h6 {
-    color: #475669 !important;
-    font-size: 1em !important;
-    font-weight: 500 !important;
-    font-variant: small-caps !important;
+	color: #475669 !important;
+	font-size: 1em !important;
+	font-weight: 500 !important;
+	font-variant: small-caps !important;
 }
