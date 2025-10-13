@@ -20,8 +20,8 @@
 }
 
 .theme-switch-icon {
-	width: 1.5rem !important;
-	height: 1.5rem !important;
+	width: 1.3rem !important;
+	height: 1.3rem !important;
 }
 
 .site-navbar-social-links-container {
@@ -30,24 +30,30 @@
 }
 
 /* Page header, hero and footer styles */
-.page-header {
-	padding-bottom: 3rem !important;
-}
-
-.page-header-description {
+.page-hero-title {
 	font-family: "LXGW WenKai TC", serif !important;
-	font-size: 1.15rem !important;
-	font-weight: 500 !important;
 }
 
 .page-hero-description {
 	font-family: "LXGW WenKai TC", serif !important;
-	font-size: 1.15rem !important;
+	font-size: 1rem !important;
 	font-weight: 300 !important;
 }
 
+.page-header {
+	font-family: "Noto Serif SC", serif !important;
+	padding-bottom: 1.2rem !important;
+	border-bottom-width: 0px !important;
+}
+
+.page-header-description {
+	font-family: "Noto Serif SC", serif !important;
+	font-size: 1.15rem !important;
+	font-weight: 500 !important;
+}
+
 .site-footer-inner {
-	margin-top: 0rem !important;
+	margin-top: 6.18rem !important;
 	border-top-width: 0px !important;
 }
 
