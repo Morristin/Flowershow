@@ -19,12 +19,21 @@
 	letter-spacing: 0em !important;
 }
 
+.theme-switch-icon {
+	width: 1.5rem !important;
+	height: 1.5rem !important;
+}
+
 .site-navbar-social-links-container {
 	gap: 1.2rem !important;
 	column-gap: 1.2rem !important;
 }
 
-/* Page header and hero styles */
+/* Page header, hero and footer styles */
+.page-header {
+	padding-bottom: 3rem !important;
+}
+
 .page-header-description {
 	font-family: "LXGW WenKai TC", serif !important;
 	font-size: 1.15rem !important;
@@ -37,7 +46,12 @@
 	font-weight: 300 !important;
 }
 
-/* Some list component styles used in sepecific pages */
+.site-footer-inner {
+	margin-top: 0rem !important;
+	border-top-width: 0px !important;
+}
+
+/* Some special styles used in sepecific pages */
 .list-component-item-eyebrow {
 	font-family: "LXGW WenKai TC", serif !important;
 	font-size: 1.15rem !important;
@@ -48,6 +62,13 @@
 	font-family: "LXGW WenKai TC", serif !important;
 	font-size: 1.15rem !important;
 	font-weight: 300 !important;
+}
+
+.mobile-nav-links-container,
+.mobile-nav-social-links-container {
+	border-top-width: 0px !important;
+	padding: 1.5rem !important;
+	padding-left: 2rem !important;
 }
 
 /* Hide every elements related to FlowerShow */
@@ -64,6 +85,12 @@ a#built-with-button {
 }
 
 /* Genral fonts and color settings */
+.site-navbar-site-name {
+	font-size: 1.3rem !important;
+	font-weight: 600 !important;
+	letter-spacing: -0.02em !important;
+}
+
 p,
 li,
 summary,

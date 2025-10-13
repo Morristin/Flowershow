@@ -26,17 +26,17 @@
 		"social": [
 			{
 				"label": "github",
-				"name": "My GitHub Profile",
+				"name": "Develope - GitHub",
 				"href": "https://github.com/Morristin"
 			},
 			{
 				"label": "reddit",
-				"name": "Follow me on Reddit",
+				"name": "Social - Reddit",
 				"href": "https://www.reddit.com/user/morristin/"
 			},
 			{
 				"label": "discord",
-				"name": "Chat with me on Discord",
+				"name": "Chat - Discord",
 				"href": "https://discord.com/users/1410993486496399500"
 			}
 		]
