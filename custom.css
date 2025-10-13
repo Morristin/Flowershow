@@ -7,6 +7,11 @@
 	padding-right: 2rem !important;
 }
 
+.site-navbar-site-logo {
+	width: 1.8rem !important;
+	height: 1.8rem !important;
+}
+
 .site-navbar-links-container {
 	gap: 1.2rem !important;
 	column-gap: 1.2rem !important;
@@ -47,7 +52,7 @@
 }
 
 .page-header-title {
-	font-family: "Noto Serif SC", serif !important;
+	font-family: "LXGW WenKai TC", serif !important;
 	padding-bottom: 0.3rem !important;
 }
 
@@ -163,4 +168,8 @@ h6 {
 	font-size: 1em !important;
 	font-weight: 500 !important;
 	font-variant: small-caps !important;
+}
+
+[data-callout] > [data-callout-title]:before {
+	margin-top: 0.4rem !important;
 }
