@@ -3,7 +3,7 @@
 
 	"theme": {
 		"defaultMode": "system",
-		"showModeSwitch": true
+		"showModeSwitch": false
 	},
 
 	"showHero": true,

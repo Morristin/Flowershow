@@ -34,6 +34,11 @@
 	column-gap: 1.2rem !important;
 }
 
+.site-navbar-social-links-icon {
+	width: 1.4rem !important;
+	height: 1.4rem !important;
+}
+
 /* Page header, hero and footer styles */
 .page-hero-title {
 	font-family: "LXGW WenKai TC", serif !important;
