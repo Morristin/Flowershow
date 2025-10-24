@@ -27,6 +27,7 @@
 .theme-switch-icon {
 	width: 1.4rem !important;
 	height: 1.4rem !important;
+	display: none !important;
 }
 
 .site-navbar-social-links-container {
