@@ -20,5 +20,5 @@ description: 麻烦您通过以下方式与我取得联系
 
 > [!tip] 如果你与我身处同一个校园中……
 >
-> - 通过 **电子邮件** 联系我： <a href="mailto://2025337621292@mails.zstu.edu.cn">2025337621292@mails.zstu.edu.cn</a>。
+> - 通过 **电子邮件** 联系我： <a href="mailto://2025337621292@mails.zstu.edu.cn">ZSTU Mail</a>。
 > - 在 **本校贴吧** 中发布帖子。我会主动前来联系您。
